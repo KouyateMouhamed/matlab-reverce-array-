@@ -1,1 +1,1 @@
-# matlab-reverce-array-
+# matlab-reverse-array-
